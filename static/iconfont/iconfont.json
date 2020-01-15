@@ -1,0 +1,37 @@
+{
+  "id": "1612271",
+  "name": "服务器移动端",
+  "font_family": "iconfont",
+  "css_prefix_text": "fi-icon-",
+  "description": "服务器移动端图标",
+  "glyphs": [
+    {
+      "icon_id": "7135443",
+      "name": "关机",
+      "font_class": "on-off",
+      "unicode": "e9d9",
+      "unicode_decimal": 59865
+    },
+    {
+      "icon_id": "11518206",
+      "name": "icon_相关描述",
+      "font_class": "tips",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11518209",
+      "name": "icon_关闭",
+      "font_class": "close",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11518210",
+      "name": "icon_问题",
+      "font_class": "help",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
